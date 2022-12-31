@@ -1,5 +1,5 @@
 # ABOUT 
-This company was founded by a group of enthusiastic AI students at UTeM in Malacca, Malaysia. They are passionate about AI software and products and hope to make AI more accessible to everyone around the globe.
+This company was founded by a group of three enthusiastic AI students at UTeM in Malacca, Malaysia. They are passionate about AI software and products and hope to make AI more accessible to everyone around the globe.
 
 ## OUR MISSION
 Increasing visibility of local AI talents, solutions and industries in the global arena
@@ -15,7 +15,7 @@ Increasing the speed and agility of technology development and procurement
 **LAI KAH HENG**
 
 Resposiblity:
-1. Direct and oversee the business's overall strategic direction
+1. Direct and oversee the organization's overall strategic direction
 2. Manage the company's staff and organization's workflow
 3. Allocate the resources of the company
 4. Ensure the project meets the listed objectives
@@ -43,7 +43,7 @@ Responsiblity:
 **THIVEYA A/P MAHEDRAN**
 
 Responsibility:
-1. Design and implement business strategies, plans and procedures
+1. Design and implement company strategies, plans and procedures
 2. Report directly to the CEO on the progress and status of any project
 3. Identify risks and threats that might be happening in the company
 4. Establish policies that promote company culture and vision
