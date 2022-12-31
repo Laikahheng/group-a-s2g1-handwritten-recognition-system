@@ -2,10 +2,10 @@
 This company was founded by a group of enthusiastic AI students at UTeM in Malacca, Malaysia. They are passionate about AI software and products and hope to make AI more accessible to everyone around the globe.
 
 ## OUR MISSION
-
+Increasing visibility of local AI talents, solutions and industries in the global arena
 
 ## INNOVATION
-
+Increasing the speed and agility of technology development and procurement
 
 ## OUR TEAM
 **CHIEF EXECUTIVE OFFICER (CEO)**
