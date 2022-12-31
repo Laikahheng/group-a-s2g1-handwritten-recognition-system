@@ -1,4 +1,4 @@
-# ABOUT QTMT IT Solution Inc 
+# ABOUT 
 This company is setup by a group of AI enthusiastic students in UTeM. They are passionate in AI software and products and hope to bring AI closer to everyone in the world.
 
 Based in Malaysia, Malacca. 
@@ -7,14 +7,14 @@ Based in Malaysia, Malacca.
 BRING CUTTING EDGE ARTIFICIAL INTELLIGENCE(AI) TECHNOLOGY TO THE COMMUNITY AND DAILY LIFE
 
 ## Innovation
-We change the way of how people think about AI and change their life habit. 
+A handwritten note tells a whole story. 
 
 ## OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
 <img src="assets/quek.jpg" width="200" height="auto" />
 
-**QUEK YAO JING**
+**LAI KAH HENG**
 
 Resposiblity:
 1. Manage the company staff and organization workflow
