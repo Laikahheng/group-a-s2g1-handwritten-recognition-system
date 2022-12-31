@@ -18,8 +18,8 @@ Handwritten Recognition System
 + Thiveya A/P Mahendran B032010296
 
 ### Objectives:
-+ To develop an artificial intelligence system that are able to recognize the human handwriting
-+ To 
++ To develop an artificial intelligence system that are able to recognize the human handwriting in English
++ To convert huge volume of handwritten data to text data in a very small amount of time
 + To develop an application programming interface (API) for the future ease of use as the integration module
 
 <br><br><br>
