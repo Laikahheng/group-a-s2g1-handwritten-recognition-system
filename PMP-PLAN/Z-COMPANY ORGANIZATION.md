@@ -15,10 +15,10 @@ Increasing the speed and agility of technology development and procurement.
 **LAI KAH HENG**
 
 Resposiblity:
-1. Direct and oversee the organization's overall strategic direction.
-2. Manage the company's staff and organization's workflow.
-3. Allocate the resources of the company.
-4. Ensure the project meets the listed objectives.
++ Direct and oversee the organization's overall strategic direction.
++ Manage the company's staff and organization's workflow.
++ Allocate the resources of the company.
++ Ensure the project meets the listed objectives.
 
 <br>
 
