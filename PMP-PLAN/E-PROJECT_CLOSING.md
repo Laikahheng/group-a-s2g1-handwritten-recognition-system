@@ -4,10 +4,10 @@
 ### Closing Checklist
 
 #### 1. Customer Acceptance Form
-<img src="assets/closing/customer_acceptance.jpg" width="100%">
+<img src="assets/closing/customer_acceptance.JPG" width="100%">
 
 #### 2. Lessons Learned Document
-<img src="assets/closing/lessons_learned.jpg" width="100%">
+<img src="assets/closing/lessons_learned.JPG" width="100%">
 
 #### 3. Final Project Report
 **HANDWRITTEN RECOGNITION SYSTEM**
@@ -62,7 +62,7 @@ iv) Report information to senior management on monthly basis
 
 #### 4. Close Contract
 
-<img src="assets/closing/close_contract.jpg" width="100%">
+<img src="assets/closing/close_contract.JPG" width="100%">
 
 
 <br><br><br>
