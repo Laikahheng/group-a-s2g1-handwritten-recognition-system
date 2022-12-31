@@ -24,7 +24,7 @@ Resposiblity:
 
 **CHIEF FINANCIAL OFFICER (CFO)**
 
-<img src="assets/.jpeg" width="180" height="auto" />
+<img src="assets/ethan.jpeg" width="180" height="auto" />
 
 **ETHAN LEW**
 
