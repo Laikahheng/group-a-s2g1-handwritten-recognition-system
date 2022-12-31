@@ -2,17 +2,15 @@
 
 ## E. COMPLETING THE PROJECT
 ### Closing Checklist
-<br>
 
 #### 1. Customer Acceptance Form
-<img src="assets/closing/acceptance_form.svg" width="100%">
+<img src="assets/closing/customer_acceptance.jpg" width="100%">
 
 #### 2. Lessons Learned Document
-<img src="assets/closing/lessons_learned.svg" width="100%">
-
+<img src="assets/closing/lessons_learned.jpg" width="100%">
 
 #### 3. Final Project Report
-**CAR PLATE RECOGNITION SYSTEM**
+**HANDWRITTEN RECOGNITION SYSTEM**
 
 **1.0 PROJECT OBJECTIVES**
 
@@ -64,7 +62,7 @@ iv) Report information to senior management on monthly basis
 
 #### 4. Close Contract
 
-<img src="assets/closing/close_contract.PNG" width="100%">
+<img src="assets/closing/close_contract.jpg" width="100%">
 
 
 <br><br><br>
