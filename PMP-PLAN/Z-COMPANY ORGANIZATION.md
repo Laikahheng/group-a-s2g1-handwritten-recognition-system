@@ -29,10 +29,10 @@ Resposiblity:
 **ETHAN LEW**
 
 Responsiblity:
-1. Analyze the company's financial strengths and weaknesses.
-2. Report and track the cash flow of the project and company.
-3. Ensure the project does not exceed the maximum budget allocations.
-4. Report to the CEO if there are any budget issues.
++ Analyze the company's financial strengths and weaknesses.
++ Report and track the cash flow of the project and company.
++ Ensure the project does not exceed the maximum budget allocations.
++ Report to the CEO if there are any budget issues.
 
 <br>
 
@@ -43,7 +43,7 @@ Responsiblity:
 **THIVEYA A/P MAHEDRAN**
 
 Responsibility:
-1. Design and implement company strategies, plans and procedures.
-2. Report directly to the CEO on the progress and status of any project.
-3. Identify risks and threats that might be happening in the company.
-4. Establish policies that promote company culture and vision.
++ Design and implement company strategies, plans and procedures.
++ Report directly to the CEO on the progress and status of any project.
++ Identify risks and threats that might be happening in the company.
++ Establish policies that promote company culture and vision.
