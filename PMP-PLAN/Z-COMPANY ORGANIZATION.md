@@ -1,4 +1,4 @@
-# ABOUT 
+# ABOUT LET Solutions
 This company was founded by a group of three enthusiastic AI students at UTeM in Malacca, Malaysia. They are passionate about AI software and products and hope to make AI more accessible to everyone around the globe.
 
 ## OUR MISSION
