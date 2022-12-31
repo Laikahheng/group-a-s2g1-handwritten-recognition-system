@@ -2,24 +2,22 @@
 
 ## A. DEFINING THE PROJECT
 ###  Project Summary
-In Aeon Mall, conventional parking fees charging system require car driver to obtain their car ticket upon entering the mall at the barrier gate. Driver need to pay for the ticket before leaving the mall at the packing machine. 
+The term "handwriting recognition" (HWR) refers to a computer's or device's capacity to accept handwriting as input from sources such printed physical documents, photographs, and other devices, or to directly enter handwriting onto a touchscreen and translate it into text. Typically, the input takes the form of an image. Consider real-time recognition utilising a camera for optical scanning, or a photograph of handwritten text that is given to pattern-recognition software. The capacity of a computer or mobile device to recognise handwriting as actual text is known as handwriting recognition. 
 
-In our car plate recognition system, a camera will be positioned at the barrier gate. The camera will automatically recognize driver's car plate number and deduct parking fees from user. In this project, our **main focus will be on the car plate detection and recognition module**. This is the very first step in developing the automatic parking system in Aeon. 
+This project aims to develop software which will be helpful in recognizing characters of English language. The project is restricted to English characters only and it can be further developed to recognize the characters of different languages in future.
 
+###  Customer: Samsung Electronics Co., Ltd
 
-###  Customer: Aeon CO. (M) BHD 
-
-### Project Name: CAR PLATE RECOGNITION SYSTEM
+### Project Name: Handwritten Recognition System
 
 ### Team Members: 
-+ QUEK YAO JING B031810136
-+ TAN WEN XIANG B031810179
-+ TANG LI HO B031810122
-+ MERVYN LIM ZHE XI B031810201
++ Lai Kah Heng B032020004
++ Ethan Lew B032110072
++ Thiveya A/P Mahendran B032010296
 
 ### Objectives:
-+ To develop an artificial intelligence system that are able to detect Malaysia car number plate
-+ To develop a system that are able to recognize the character of the car number plate
++ To develop an artificial intelligence system that are able to recognize the human handwriting
++ To 
 + To develop an application programming interface (API) for the future ease of use as the integration module
 
 <br><br><br>
