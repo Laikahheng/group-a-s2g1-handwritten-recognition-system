@@ -1,7 +1,5 @@
 # ABOUT 
-This company is setup by a group of AI enthusiastic students in UTeM. They are passionate in AI software and products and hope to bring AI closer to everyone in the world.
-
-Based in Malaysia, Malacca. 
+This company was founded by a group of enthusiastic AI students at UTeM in Malacca, Malaysia. They are passionate about AI software and products and hope to make AI more accessible to everyone around the globe.
 
 ## OUR MISSION
 
@@ -10,41 +8,42 @@ Based in Malaysia, Malacca.
 
 
 ## OUR TEAM
-**CHIEF EXECUTIVE OFFICIAL (CEO)**
+**CHIEF EXECUTIVE OFFICER (CEO)**
 
-<img src="assets/quek.jpg" width="200" height="auto" />
+<img src="assets/.jpg" width="200" height="auto" />
 
 **Lai Kah Heng**
 
 Resposiblity:
-1. Manage the company staff and organization workflow
-2. Making major corporate decisions 
-3. Manage and allocate the resources of the company
-4. Make sure project meet the deadline
+1. Direct and oversee the business's overall strategic direction
+2. Manage the company's staff and organization's workflow
+3. Allocate the resources of the company
+4. Ensure the project meets the listed objectives
 
+<br>
 
-**CHIEF FINANCIAL OFFICIAL (CFO)**
+**CHIEF FINANCIAL OFFICER (CFO)**
 
-<img src="assets/wenxiang1.jpeg" width="180" height="auto" />
+<img src="assets/.jpeg" width="180" height="auto" />
 
 **Ethan Lew**
 
 Responsiblity:
-1. Ensure the project does not exceed the maximum budget allocations
-2. Do reporting and accounting on the cashflow of the project and company
-3. Communicate with all levels to find out how much budget to be allocated to each department
-4. Report to CEO if there are any budget issues
-5. Procurement Manager
+1. Analyze the company's financial strengths and weaknesses
+2. Report and track the cash flow of the project and company
+3. Ensure the project does not exceed the maximum budget allocations 
+4. Report to the CEO if there are any budget issues
 
+<br>
 
-**CHIEF OPERATING OFFICIAL (COO)**
+**CHIEF OPERATING OFFICER (COO)**
 
-<img src="assets/mervyn.jpeg" width="200" height="auto" />
+<img src="assets/.jpeg" width="200" height="auto" />
 
 **Thiveya A/P Mahendran**
 
 Responsibility:
-1. Report directly to CEO on any project progress and status
-2. Identify risks and threat that might be happened in the company
-3. Aids CEO in attending public events and meet more people on the community
-4. Maintain public relations with other members of the company
+1. Design and implement business strategies, plans and procedures
+2. Report directly to the CEO on the progress and status of any project
+3. Identify risks and threats that might be happening in the company
+4. Establish policies that promote company culture and vision
