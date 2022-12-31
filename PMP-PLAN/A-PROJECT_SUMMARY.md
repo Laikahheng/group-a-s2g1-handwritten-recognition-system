@@ -6,9 +6,11 @@ The term "handwriting recognition" (HWR) refers to a computer's or device's capa
 
 This project aims to develop software which will be helpful in recognizing characters of English language. The project is restricted to English characters only and it can be further developed to recognize the characters of different languages in future.
 
-###  Customer: Samsung Electronics Co., Ltd
+###  Customer: 
+Samsung Electronics Co., Ltd
 
-### Project Name: Handwritten Recognition System
+### Project Name: 
+Handwritten Recognition System
 
 ### Team Members: 
 + Lai Kah Heng B032020004
