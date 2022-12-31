@@ -18,9 +18,9 @@ This project aims to develop software that will be helpful in recognising charac
 Samsung Electronics Co., Ltd.
 
 ### Team Members: 
-+ Lai Kah Heng (B032020004)
-+ Ethan Lew (B032110072)
-+ Thiveya A/P Mahendran (B032010296)
+1. Lai Kah Heng (B032020004)
+2. Ethan Lew (B032110072)
+3. Thiveya A/P Mahendran (B032010296)
 
 <br><br><br>
 ##### Next: [Project Planning](B-PROJECT_PLANNING.md)
