@@ -10,7 +10,7 @@ Increasing the speed and agility of technology development and procurement.
 ## OUR TEAM
 **CHIEF EXECUTIVE OFFICER (CEO)**
 
-<img src="assets/.jpg" width="200" height="auto" />
+<img src="assets/kahheng.jpg" width="200" height="auto" />
 
 **LAI KAH HENG**
 
