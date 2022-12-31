@@ -4,7 +4,7 @@
 ### Closing Checklist
 
 #### 1. Customer Acceptance Form
-<iframe src="assets/closing/customer_acceptance.pdf" width="100%" height="500px"></iframe>
+[embed]assets/closing/customer_acceptance.pdf[/embed]
 
 #### 2. Lessons Learned Document
 <img src="assets/closing/lessons_learned.JPG" width="100%">
