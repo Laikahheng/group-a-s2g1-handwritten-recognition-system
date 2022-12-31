@@ -4,7 +4,7 @@ This company was founded by a group of enthusiastic AI students at UTeM in Malac
 ## OUR MISSION
 
 
-## Innovation
+## INNOVATION
 
 
 ## OUR TEAM
@@ -12,7 +12,7 @@ This company was founded by a group of enthusiastic AI students at UTeM in Malac
 
 <img src="assets/.jpg" width="200" height="auto" />
 
-**Lai Kah Heng**
+**LAI KAH HENG**
 
 Resposiblity:
 1. Direct and oversee the business's overall strategic direction
@@ -26,7 +26,7 @@ Resposiblity:
 
 <img src="assets/.jpeg" width="180" height="auto" />
 
-**Ethan Lew**
+**ETHAN LEW**
 
 Responsiblity:
 1. Analyze the company's financial strengths and weaknesses
@@ -40,7 +40,7 @@ Responsiblity:
 
 <img src="assets/.jpeg" width="200" height="auto" />
 
-**Thiveya A/P Mahendran**
+**THIVEYA A/P MAHEDRAN**
 
 Responsibility:
 1. Design and implement business strategies, plans and procedures
