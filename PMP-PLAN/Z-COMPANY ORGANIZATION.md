@@ -38,7 +38,7 @@ Responsiblity:
 
 **CHIEF OPERATING OFFICER (COO)**
 
-<img src="assets/.jpeg" width="200" height="auto" />
+<img src="assets/thiveya.jpg" width="200" height="auto" />
 
 **THIVEYA A/P MAHEDRAN**
 
