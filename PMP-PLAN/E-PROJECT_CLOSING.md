@@ -7,7 +7,7 @@
 <img src="assets/customer_acceptance.svg" width="50%">
 
 #### 2. Lessons Learned Document
-<img src="assets/closing/lessons_learned.JPG" width="50%">
+<img src="assets/lessons_learned.svg" width="50%">
 
 #### 3. Final Project Report
 **HANDWRITTEN RECOGNITION SYSTEM**
