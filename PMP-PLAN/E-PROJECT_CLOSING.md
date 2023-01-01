@@ -4,10 +4,10 @@
 ### Closing Checklist
 
 #### 1. Customer Acceptance Form
-<img src="assets/customer_acceptance.svg" width="50%">
+<img src="assets/customer_acceptance.svg" width="100%">
 
 #### 2. Lessons Learned Document
-<img src="assets/lessons_learned.svg" width="50%">
+<img src="assets/lessons_learned.svg" width="100%">
 
 #### 3. Final Project Report
 **HANDWRITTEN RECOGNITION SYSTEM**
@@ -50,19 +50,11 @@ By creating this system, the time needed of queueing up in front of the barrier 
 
 **6.0 TRANSITION PLAN**
 
-QTMT Inc. staff will provide support when require. The main work of support provided by QTMT Inc.’s staff on the car plate recognition system project are as shown below:
-
-i) Maintain the system
-
-ii) Handling errors and updates of the system
-
-iii) Provide user guidelines for Aeon staff to use the system
-
-iv) Report information to senior management on monthly basis
+<img src="assets/transition_plan.svg" width="100%">
 
 #### 4. Close Contract
 
-<img src="assets/close_contract.svg" width="50%">
+<img src="assets/close_contract.svg" width="100%">
 
 
 <br><br><br>
