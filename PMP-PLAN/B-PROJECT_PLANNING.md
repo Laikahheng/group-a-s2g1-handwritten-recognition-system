@@ -3,16 +3,16 @@
 
 ### Project Management Life Cycle:
 
-The project management life cycle is represented and documented in the form of Gantt Chart which allows QTMT staff to follow the guidelines and achieved the milestone from time to time. The project life cycle WBS breakdown the task and work of every members such as project manager into several modules. Every member have their own roles and part in every stage of the lifecyle based on the constructed WBS.
+The project management life cycle is represented and documented in the form of a Gantt chart, which allows us to follow the guidelines and achieve the milestones from time to time. The project life cycle (WBS) breaks down the tasks and work of every member into several modules. Based on the WBS, each member has their own roles and parts in each stage of the lifecycle.
 
 Project management WBS is shown in the Gantt Chart below:
 
 <img src="assets/planning/WBS1.png" width="100%">
 <img src="assets/planning/WBS2.png" width="100%">
 
-As for the Car Plate Recognition Project, the system WBS are represented as follow. This WBS is constructured to breakdown the technical part of the project into several modules such as interface design, API management, Car Plate Detection and Car Plate Recognition: 
+As for the Handwritten Recognition System, the project WBS is represented as follows. This work breakdown structure is designed to divide the technical portion of the project into several modules based on the life cycle phrase, including planning and analysis, design and implementation, testing, and requirements and maintenance. 
 
-<img src="assets/planning/WBS-Prj.png" width="100%">
+<img src="assets/wbs_tree.png" width="100%">
 
 
 
