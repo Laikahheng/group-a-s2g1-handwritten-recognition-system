@@ -7,7 +7,8 @@ The project management life cycle is represented and documented in the form of a
 
 The project management WBS is shown in the Gantt Chart below:
 
-<img src="assets/wbs_gantt_chart.svg" width="100%">
+<img src="assets/wbs_gantt_chart1.JPG" width="100%">
+<img src="assets/wbs_gantt_chart2.JPG" width="100%">
 
 As for the Handwritten Recognition System, the project WBS is represented as follows. This work breakdown structure is designed to divide the technical portion of the project into several modules based on the life cycle phrase, including planning and analysis, design and implementation, testing, and requirements and maintenance. 
 
