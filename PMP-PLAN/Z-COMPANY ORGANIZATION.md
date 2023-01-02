@@ -1,8 +1,8 @@
-# ABOUT LET SOLUTIONS
+# INFORMATION ABOUT LET SOLUTIONS
 This company was founded by a group of three enthusiastic AI students at UTeM in Malacca, Malaysia. They are passionate about AI software and products and hope to make AI more accessible to everyone around the globe.
 
 ## OUR MISSION
-Increasing visibility of local AI talents, solutions and industries in the global arena.
+Increasing the visibility of local AI talents, solutions and industries in the global arena.
 
 ## INNOVATION
 Increasing the speed and agility of technology development and procurement.
@@ -16,7 +16,7 @@ Increasing the speed and agility of technology development and procurement.
 
 Resposiblity:
 + Direct and oversee the organization's overall strategic direction.
-+ Manage the company's staff and organization's workflow.
++ Manage the company's staff and the organization's workflow.
 + Allocate the resources of the company.
 + Ensure the project meets the listed objectives.
 
