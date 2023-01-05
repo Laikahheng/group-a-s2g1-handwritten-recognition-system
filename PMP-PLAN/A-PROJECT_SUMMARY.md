@@ -11,8 +11,8 @@ This project aims to develop software that will be helpful in recognising charac
 
 ### Project Objectives:
 1. To develop an AI system that is able to recognise human handwriting in English
-2. To convert a large volume of handwritten data into text data in a short period of time
-3. To ensure the system can detect handwritten text accurately
+2. To construct a tool that takes an image as input and extracts the characters as output
+3. To ensure the system can convert the handwritten images into text data accurately
 
 ### Customer: 
 Samsung
