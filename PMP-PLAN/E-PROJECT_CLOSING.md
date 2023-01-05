@@ -42,9 +42,8 @@ The project members stick to the plan as shown in the Gantt Chart, and all progr
 <br>
 
 **5.2 OBJECTIVES**
+LET Solutions had successfully achieved the objectives that were outlined at the beginning of the project. In this project, Deep Learning is used to identify and read the words or characters on the handwritten image. The developed Artificial Intelligence Handwritten Recognition System can recognise human handwriting in English by taking a handwritten image as input and extracts the characters as output accurately.
 
-QTMT Inc. managed to achieve the objectives initialized since the beginning of the project. A system that is artificial intelligence powered, which uses deep-learning technique has been made. Deep learning is used in this project to identify the location of the number plate on the image and also read the characters on the number plate. 
-Besides, FAST API is used to implement the python program that are used to recognise the number plate into a html website. By using this method, our objective of building an API in the system was met.
 
 **5.3 IMPACTS**
 <br>
