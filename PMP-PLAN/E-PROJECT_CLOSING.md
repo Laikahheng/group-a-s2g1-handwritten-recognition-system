@@ -11,7 +11,7 @@
 
 #### 3. Final Project Report
 **HANDWRITTEN RECOGNITION SYSTEM**
-<br>
+<br><br>
 
 **1.0 PROJECT OBJECTIVES**
 1. To develop an AI system that is able to recognise human handwriting in English
@@ -21,8 +21,7 @@
 
 **2.0 SUMMARY OF PROJECT RESULTS**
 
-<br>
-<br>
+<br><br>
 
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 
@@ -32,14 +31,14 @@ The project members stick to the plan as shown in the Gantt Chart, and all progr
 <img src="assets/wbs_gantt_chart2.JPG" width="100%">
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
-<br>
-<br>
+
+<br><br>
 
 **5.0 PROJECT ASSESSMENT**
 
 **5.1 SCOPE**
-<br>
-<br>
+
+<br><br>
 
 
 **5.2 OBJECTIVES**
@@ -49,8 +48,7 @@ LET Solutions had successfully achieved the objectives that were outlined at the
 
 **5.3 IMPACTS**
 
-<br>
-<br>
+<br><br>
 
 **6.0 TRANSITION PLAN**
 <img src="assets/transition_plan.svg" width="100%">
