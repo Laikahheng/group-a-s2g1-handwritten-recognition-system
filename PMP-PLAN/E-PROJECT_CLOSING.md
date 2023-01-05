@@ -13,31 +13,32 @@
 **HANDWRITTEN RECOGNITION SYSTEM**
 
 **1.0 PROJECT OBJECTIVES**
-
-The car plate recognition system done by QTMT Inc. was intended to develop an artificial intelligence system that are able to detect Malaysia car number plate. Besides, one of the aims of QTMT Inc. is to develop a system that are able to recognize the character of the car number plate. Not only that, we also intend to build an application programming interface (API) for the future ease if use as the integration module.
+1. To develop an AI system that is able to recognise human handwriting in English
+2. To construct a tool that takes an image as input and extracts the characters as output
+3. To ensure the system can convert the handwritten images into text data accurately
 
 **2.0 SUMMARY OF PROJECT RESULTS**
 
-After the system has been completed, we tested the accuracy of the system. The system is 30%
+
+
 
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
+The project members stick to the plan as shown in the Gantt Chart, and all progress is on track and fits within the original schedule.
 
-The project member sticks to the Gantt chart scheduled so, the actual progress fits the original schedule.
-
-<img src="assets/planning/WBS1.png" width="100%">
-<img src="assets/planning/WBS2.png" width="100%">
+<img src="assets/wbs_gantt_chart1.JPG" width="100%">
+<img src="assets/wbs_gantt_chart2.JPG" width="100%">
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 
-The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
-<img src="assets/closing/budget.PNG" width="100%">
+
 
 **5.0 PROJECT ASSESSMENT**
 
 **5.1 SCOPE**
 
-The project scope was initiated from the beginning of the project. For instance, the system is not able to detect unique number plates that does not follow the rules set by the government. Unique number plates that cannot be recognise includes number plates that are reflective, and also number plate with special fonts. The system also scopes down the limit of the project by only detect alphabet and number character. Therefore, this system may not be used by countries like China or Thailand, which includes Thai and Mandarin in their number plates.
+
+
 
 **5.2 OBJECTIVES**
 
@@ -46,14 +47,13 @@ Besides, FAST API is used to implement the python program that are used to recog
 
 **5.3 IMPACTS**
 
-By creating this system, the time needed of queueing up in front of the barrier gateway before entering the mall’s car park has been reduced. This can avoid traffic obstruction caused by the long queue. The process of paying the parking fees will also become more convenient as shoppers will no longer need to queue up in front of the auto pay machine and wait for their turn to pay for the parking fees. The parking fees will be automatically conducted from the account registered by the users after their number plate has been recognize. 
+
+
 
 **6.0 TRANSITION PLAN**
-
 <img src="assets/transition_plan.svg" width="100%">
 
 #### 4. Close Contract
-
 <img src="assets/close_contract.svg" width="100%">
 
 
