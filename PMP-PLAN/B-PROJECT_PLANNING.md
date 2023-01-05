@@ -3,12 +3,12 @@
 
 ### Project Management Life Cycle:
 
-The project management life cycle is represented and documented in the form of a Gantt chart, which allows us to follow the guidelines and achieve the milestones from time to time. The project life cycle and Work Breakdown Structure (WBS) break down the tasks and work of every member into several modules. Based on the WBS, each member has their own roles and parts in each stage of the lifecycle.
+The project management life cycle is represented and documented in the form of a Gantt chart, which allows us to follow the guidelines and achieve the milestones from time to time. A Gantt chart is a project management tool that assists in planning by showing start and end dates, as well as dependencies, scheduling, and deadlines, including how much of the task is completed per stage and who is the task owner. The project management WBS is shown in the Gantt Chart below:
 
 <img src="assets/wbs_gantt_chart1.JPG" width="100%">
 <img src="assets/wbs_gantt_chart2.JPG" width="100%">
 
-Below shows the tree view of WBS. This work breakdown structure is designed to divide the technical portion of the project into several modules based on the life cycle phrase, including planning and analysis, design and implementation, testing, and requirements and maintenance.
+The WBS stands for Work Breakdown Structure. It is a hierarchical representation of the elements (tasks) that comprise a project. The WBS of our project is shown below:
 
 <img src="assets/wbs_tree.png" width="100%">
 
