@@ -10,9 +10,9 @@ The term "handwriting recognition" (HWR) refers to a computer's or device's capa
 This project aims to develop software that will be helpful in recognising characters in the English language. The project is restricted to English characters only, but it can be further developed to recognise the characters of different languages in the future.
 
 ### Project Objectives:
-1. To develop an AI system that is able to recognise human handwriting in English
-2. To construct a tool that takes an image as input and extracts the characters as output
-3. To ensure the system can convert the handwritten images into text data accurately
+1. To develop an AI system that is able to recognise human handwriting in English.
+2. To construct a tool that takes an image as input and extracts the characters as output.
+3. To ensure the system can convert the handwritten images into text data accurately.
 
 ### Customer: 
 Samsung
