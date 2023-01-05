@@ -14,9 +14,9 @@
 <br><br>
 
 **1.0 PROJECT OBJECTIVES**
-1. To develop an AI system that is able to recognise human handwriting in English
-2. To construct a tool that takes an image as input and extracts the characters as output
-3. To ensure the system can convert the handwritten images into text data accurately
+1. To develop an AI system that is able to recognise human handwriting in English.
+2. To construct a tool that takes an image as input and extracts the characters as output.
+3. To ensure the system can convert the handwritten images into text data accurately.
 <br>
 
 **2.0 SUMMARY OF PROJECT RESULTS**
