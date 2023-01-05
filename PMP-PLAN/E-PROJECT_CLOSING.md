@@ -44,7 +44,7 @@ The project members stick to the plan as shown in the Gantt Chart, and all progr
 **5.2 OBJECTIVES**
 
 LET Solutions had successfully achieved the objectives that were outlined at the beginning of the project. In this project, Deep Learning is used to identify and read the words or characters on the handwritten image. The developed Artificial Intelligence Handwritten Recognition System can recognise human handwriting in English by taking a handwritten image as input and extracts the characters as output accurately.
-<br>
+<br><br>
 
 **5.3 IMPACTS**
 
