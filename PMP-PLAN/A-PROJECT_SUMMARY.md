@@ -15,7 +15,7 @@ This project aims to develop software that will be helpful in recognising charac
 3. To create an application programming interface (API) as the integration module for future use
 
 ### Customer: 
-Samsung Electronics Co., Ltd.
+Samsung
 
 ### Team Members: 
 1. Lai Kah Heng (B032020004)
