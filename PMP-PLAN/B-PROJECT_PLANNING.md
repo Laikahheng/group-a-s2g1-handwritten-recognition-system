@@ -12,7 +12,7 @@ The WBS stands for Work Breakdown Structure. It is a hierarchical representation
 
 <img src="assets/wbs_tree.png" width="100%">
 
-###Scope:
+Scope
 
 As for the scope, our team has come up with a work breakdown structure (WBS). The WBS consists of all the priamry tasks of the project and has the hierarchical and gradual decomposition of the project into phases, deliverables, and work plans. 
 
