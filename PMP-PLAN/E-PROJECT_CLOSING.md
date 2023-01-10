@@ -56,4 +56,4 @@ LET Solutions had successfully achieved the objectives that were outlined at the
 #### 4. Close Contract
 <img src="assets/close_contract.svg" width="100%">
 
-##### Next: [Company Organiation](PMP-PLAN/Z-COMPANY_ORGANIZATION.md)
+##### Next: [Company Organiation](Z-COMPANY_ORGANIZATION.md)
