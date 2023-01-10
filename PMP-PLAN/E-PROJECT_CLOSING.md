@@ -58,5 +58,5 @@ LET Solutions had successfully achieved the objectives that were outlined at the
 
 
 <br><br><br>
-##### Next: [Project Presentation](F-PROJECT_PRESENTATION.md)
+##### Next: [Company Organization](Z-COMPANY ORGANIZATION.md)
 
