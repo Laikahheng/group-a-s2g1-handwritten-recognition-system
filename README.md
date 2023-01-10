@@ -1,6 +1,6 @@
 # Handwritten Recognition System
 
-This is a project that detect and recognize number plate of car. This project use Artificial Intelligence(AI) technique such as Deep Learning(DL) and Convolutional Neural Network(CNN). 
+This is a project that recognise human handwriting in English. This project use Artificial Intelligence(AI) technique such as Deep Learning(DL) and Convolutional Neural Network(CNN). 
 
 The project is developed by following Project Management Plan(PMP) to better organized the lifecycle of the project. Several charting techniques such as Gantt Chart, Milestone Chart, Work Breakdown Structure(WBS) is used to manage the project.
 
@@ -23,6 +23,7 @@ Project Execution is the execution phase where the result, coding blocks and tec
 ##### Project Closing: [Project Closing](PMP-PLAN/E-PROJECT_CLOSING.md)
 Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
 
-##### Project Presentation: [Project Presentation](PMP-PLAN/F-PROJECT_PRESENTATION.md)
-Project Presentation shows the demonstration of the car plate recognition system developed by QTMT INC. 
+##### Company Organiation: [Company Organiation](PMP-PLAN/Z-COMPANY ORGANIZATION.md)
+Company Organiation shows all of the information about LET Solutions. 
+
 ## Sample Result
