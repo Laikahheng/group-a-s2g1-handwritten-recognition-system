@@ -23,7 +23,7 @@ Project Execution is the execution phase where the result, coding blocks and tec
 ##### Project Closing: [Project Closing](PMP-PLAN/E-PROJECT_CLOSING.md)
 Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
 
-##### Company Organiation: [Company Organiation](PMP-PLAN/Z-COMPANY ORGANIZATION.md)
+##### Company Organiation: [Company Organiation](PMP-PLAN/Z-COMPANY_ORGANIZATION.md)
 Company Organiation shows all of the information about LET Solutions. 
 
 ## Sample Result
