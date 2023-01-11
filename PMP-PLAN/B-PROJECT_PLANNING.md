@@ -24,7 +24,7 @@ Risks in project management are unexpected events that may or may not occur and 
 |-----|----|-------|-----|
 |Quality/Resources | 1. Illegible handwriting and poor image quality <br><br> 2. Varied language models | 1. Joined-up handwriting may be challenging for computers to read and certain characters in text may look very similar, which makes it difficult for a computer to recognise accurately. <br><br> 2. Variety of languages from region to region and the scope of handwriting recognition is limited.| Utilize the Intelligent Character Recognition (ICR) which results low recognition accuracy and  high validation efforts where it allows handwritten characters to be recognised and converted by a computer into computer-readable text.|
 |Budget <br> | Purchasing of optical charcter recognition tool (OCR) might exceed the planned project cost estimation.  | The billing of hardware tools might extra charges. |Lease and subscribe to OCR monthly and pay fixed amount.|
-|Timeline <br> | 1. System not feasible and delivered on time as per planned in Gantt Chart <br><br> 2. Technical issues in system.  | 1. Shortage of manpower and budget restrictions. <br><br> 2. Error handling and coding error.| 1. Arrange for double shift and over time by project members. <br> 2.Request for extra expert technical assitance from the technical teams.|
+|Timeline <br> | 1. System not feasible and delivered on time as per planned in Gantt Chart <br><br> 2. Technical issues in system.  | 1. Shortage of manpower and budget restrictions. <br><br> 2. Error handling and coding error.| 1. Arrange for double shift and over time by project members. <br><br> 2.Request for extra expert technical assitance from the technical teams.|
 
  
 
