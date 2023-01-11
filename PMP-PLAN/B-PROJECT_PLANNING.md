@@ -28,6 +28,12 @@ Risks in project management are unexpected events that may or may not occur and 
 
 
 ### Responsibility Assignment Matrices (RAM)
+![RAM](https://user-images.githubusercontent.com/121591873/211879526-58cdd8d4-3f04-4389-aa0b-21b1c3261464.jpg)
+
+![RACI](https://user-images.githubusercontent.com/121591873/211879479-33f53295-ab2b-4a6b-b028-716ba477bb17.jpg)
+
+
+
 
  
 
