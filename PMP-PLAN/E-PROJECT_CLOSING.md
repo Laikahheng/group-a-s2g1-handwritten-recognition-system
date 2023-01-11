@@ -40,7 +40,7 @@ The project members stick to the plan as shown in the Gantt Chart, and all progr
 
 **5.1 SCOPE**
 
-The project scope was initiated from the beginning of the project. For instance, the system is not able to detect the handwriting if the handwriting is too blurry and messy. If the image of hanwdriting reflective, and with special fonts also cannot run for the recognition. The system also scopes down the limit of the project by only detect alphabet and number character. Therefore, this system may not be used by countries like China or Thailand, which includes Thai and Mandarin.
+The project scope was established from the beginning. For instance, the system is not able to detect the handwriting if the handwriting is too blurry and messy. If the image of hanwdriting reflective, and with special fonts also cannot run for the recognition. The system also restricts the project's scope by detecting only alphabetic and numeric characters. Therefore, this system may not be used by countries like China or Thailand, which include Thai and Mandarin.
 <br><br>
 
 **5.2 OBJECTIVES**
@@ -50,7 +50,7 @@ LET Solutions had successfully achieved the objectives that were outlined at the
 
 **5.3 IMPACTS**
 
-By creating this system, it can be use for the historical preservation. Historical papers mostly exists has physical format. Examples of historical papers are genealogical information, written manuscripts, old family records, and some personal diaries and sometimes even shared old past stories. It helps to transform the writings in the papers to a text document format which can also be said as readable electronic format. By this way, historical facts can be stored, reviewed and shared easily to many people. From the perspective of teachers and professors, this system can help them identify the fonts of different students, making it easier for them to mark the test papers
+By creating this system, it can be used for historical preservation. Historical papers mostly exist in physical format. Examples of historical papers are genealogical information, written manuscripts, old family records, and some personal diaries; sometimes even old past stories are shared. It helps to transform the writings in the papers into a text document format, which can also be said to be a readable electronic format. Historical facts can be saved, reviewed, and easily shared with a large number of people in this manner. From the perspective of teachers and professors, this system can help them identify the fonts of different students, making it easier for them to mark the test papers.
 <br><br>
 
 **6.0 TRANSITION PLAN**
