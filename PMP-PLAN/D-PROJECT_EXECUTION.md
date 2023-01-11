@@ -18,6 +18,18 @@ Next is to implement the architecture and structure of convolutional neural netw
 In here we can see that the codes is experimenting by trying different number of layers and nodes where by it uses previous experience to choose the number of layers and nodes. More layers mean more depth, hence deep neural networks will perform better. 
 ![image](https://user-images.githubusercontent.com/121591873/211897040-19434e96-a32f-41f9-961e-b53bcb7cbf16.png)
 
+This system uses is a deep Convolutional Recurrent NeuralNetwork (CRNN) inspired from the VGG16 architecture[5] used for image recognition. This is the implementation 
+for text-line recognition of documents. We showed how to train such system with few labeled text-line data. Speciﬁcally, we proposed to bootstrap an incremental training procedure.
+
+![image](https://user-images.githubusercontent.com/121591873/211899293-bd232e9b-948a-4d07-aa18-d201e4cfde7a.png)
+
+Next is the training phase where to further enhance the performance of the system, we exploited the variability in the writing scale to augment the training set with text-line images at multiple scales. The training lines were ﬁrst classiﬁed into 3 classes (Large, Medium and Small) through Jenks natural breaks optimization algorithm.
+
+![image](https://user-images.githubusercontent.com/121591873/211899860-a289464e-0aee-4103-884a-d6fb8517f5ae.png)
+
+Lastly on to the testing phase, 
+
+
 
 
 
