@@ -47,6 +47,7 @@ LET Solutions had successfully achieved the objectives that were outlined at the
 <br><br>
 
 **5.3 IMPACTS**
+
 By creating this system, it can be use for the historical preservation. Historical papers mostly exists has physical format. Examples of historical papers are genealogical information, written manuscripts, old family records, and some personal diaries and sometimes even shared old past stories. It helps to transform the writings in the papers to a text document format which can also be said as readable electronic format. By this way, historical facts can be stored, reviewed and shared easily to many people.From the perspective of teachers and professors, this system can help them identify the fonts of different students, making it easier for them to mark the test papers
 <br><br>
 
