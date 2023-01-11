@@ -32,6 +32,8 @@ The project members stick to the plan as shown in the Gantt Chart, and all progr
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 
+<img src="assets/estimate_and_actual_budget.png" width="100%">
+
 <br><br>
 
 **5.0 PROJECT ASSESSMENT**
