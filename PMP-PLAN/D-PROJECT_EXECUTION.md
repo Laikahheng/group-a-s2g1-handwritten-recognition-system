@@ -36,7 +36,8 @@ Lastly on to the testing phase, the test data were equalized in order to best ям
 ![image](https://user-images.githubusercontent.com/121591873/211905291-d853463a-caa4-4376-a018-61ca0a36b4d8.png)
 
 
-
+<br><br><br>
+##### Next: [Project Closing](D-PROJECT_CLOSING.md)
 
 
 
