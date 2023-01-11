@@ -2,11 +2,11 @@
 
 ## C. IMPLEMENTING THE PROJECT PLAN
 ### Deliverables:
-Hardware Requirement:
-For the hardware, our group uses the laptop which consists of intel core i5 and 8GB RAM to conduct our project and android tablets which is Android 10.0 vers above for training our handwriting recognition and run tests on them.
+#### Hardware Requirement:
+For the hardware, our group uses the laptop, which consists of an Intel Core i5 and 8GB of RAM, to conduct our project, and Android tablets, which are Android 10.0 or higher, for training our handwriting recognition and running tests on them.
 
 #### Software Requirement:
-For the software, We are using OCR (Optical Character Recognition) and IWR (Intelligent Word Recognition) software to receive and interpret intelligible handwritten input from sources such as paper documents, photographs, etc. Using the PHP programming language to design the website and database connection. 
+For the software, we are using OCR (Optical Character Recognition) and IWR (Intelligent Word Recognition) software to receive and interpret intelligible handwritten input from sources such as paper documents, photographs, etc. We also use the PHP programming language to design the website and database connection.
 
 #### Intelligent System Architecture:
 The proposed neural network is WPOD-Net, which is a type of convolution neural network.
