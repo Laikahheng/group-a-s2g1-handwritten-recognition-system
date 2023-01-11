@@ -19,9 +19,9 @@
 3. To ensure the system can convert the handwritten images into text data accurately.
 <br>
 
-**2.0 SUMMARY OF PROJECT RESULTS**
+**2.0 SUMMARY OF THE PROJET RESULTS**
 
-<br><br>
+After the handwritten recognition system has been completed, it is able to recognize handwrittings from documents with a high level of accuracy equivalent to 0.96 .
 
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 
