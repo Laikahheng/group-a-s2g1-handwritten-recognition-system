@@ -27,7 +27,13 @@ Next is the training phase where to further enhance the performance of the syste
 
 ![image](https://user-images.githubusercontent.com/121591873/211899860-a289464e-0aee-4103-884a-d6fb8517f5ae.png)
 
-Lastly on to the testing phase, 
+Lastly on to the testing phase, the test data were equalized in order to best ﬁt the core model of the system. The combination of the multi-scale trained system results on multi-scale test data has yielded the best results. 
+
+![image](https://user-images.githubusercontent.com/121591873/211901252-ef0ff9b8-71ea-4e23-8ee0-3d49289d84f4.png)
+
+### Project Result
+
+![image](https://user-images.githubusercontent.com/121591873/211905291-d853463a-caa4-4376-a018-61ca0a36b4d8.png)
 
 
 
