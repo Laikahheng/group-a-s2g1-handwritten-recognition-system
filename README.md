@@ -26,3 +26,6 @@ Project closure indicates the end of the project lifecycle, where the project ne
 The company organisation shows all of the information about LET Solutions.
 
 ## Sample Result
+
+![image](https://user-images.githubusercontent.com/121591873/211908041-a03d1b98-4fff-4d34-867e-744ed515c3ea.png)
+
